@@ -1,6 +1,10 @@
 # Welcome to My CFD Portfolio
 
-I am a **PhD-level CFD engineer** with expertise in **external aerodynamics** with experience in **laminar-turbulent transition** in supersonic, and hypersonic, flows.
+I am a PhD level CFD engineer with expertise in external aerodynamics with experience in laminar-turbulent transition in supersonic, and hypersonic, flows.
+
+I finished my masters degree in aerospace engineering in 2021 at the University of Liverpool. The same year, I have started my PhD journey that I have recently completed with thesis titled "Linear Instabilities in Hypersonic Conical Flows - Stability Analysis and Advancements in Numerical Methods".
+
+I work using opensource software like OpenFOAM, SU2 or Gmsh.
 
 ---
 
@@ -9,13 +13,6 @@ I am a **PhD-level CFD engineer** with expertise in **external aerodynamics** wi
 - **Expertise:** Laminar CFD simulations, OpenFOAM, Fluent, mesh generation, post-processing
 - **Industry:** Aviation, aerospace engineering
 - **Skills:** CFD modeling, turbulence modeling, numerical methods, data visualization
-
----
-
-## Selected Projects
-
-### [Laminar Flow Over Airfoil](projects/laminar-airfoil.md)  
-Simulation of laminar flow over a NACA 0012 airfoil using OpenFOAM. Includes mesh refinement and detailed velocity and pressure field analysis.
 
 ---
 
