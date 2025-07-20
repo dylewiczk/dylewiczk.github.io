@@ -16,9 +16,8 @@ I work using opensource software like OpenFOAM, SU2 or Gmsh.
 ## Contact
 
 Feel free to reach out:
-
-- **LinkedIn:** [linkedin.com](https://linkedin.com/in/kamil-dylewicz-5a2984170/)  
-- **GitHub:** [github.com](https://github.com/dylewiczk)
+- [linkedin.com](https://linkedin.com/in/kamil-dylewicz-5a2984170/)  
+- [github.com](https://github.com/dylewiczk)
 
 Thank you for visiting my portfolio!
 
