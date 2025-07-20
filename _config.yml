@@ -32,4 +32,4 @@ exclude:
   - Gemfile.lock
 
 # Permalinks
-permalink: pretty
+# permalink: pretty
