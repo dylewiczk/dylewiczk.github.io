@@ -1,11 +1,7 @@
 ---
 layout: default
 title: "My CFD Portfolio"
-description: "CFD projects engineered for accuracy and performance."
 ---
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
 # Welcome to my CFD portfolio
 
