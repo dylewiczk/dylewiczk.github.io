@@ -32,8 +32,8 @@ Simulation of laminar flow over a NACA 0012 airfoil using OpenFOAM. Includes mes
 
 Feel free to reach out:
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/kamil-dylewicz-5a2984170/)  
-- **GitHub:** [github.com/yourusername](https://github.com/dylewiczk)
+- **LinkedIn:** [linkedin.com](https://linkedin.com/in/kamil-dylewicz-5a2984170/)  
+- **GitHub:** [github.com](https://github.com/dylewiczk)
 
 ---
 
