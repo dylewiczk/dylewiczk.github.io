@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # Welcome to My CFD Portfolio
 
 I am a **PhD-level CFD engineer** with expertise in **external aerodynamics** with experience in **laminar-turbulent transition** in supersonic, and hypersonic, flows.
