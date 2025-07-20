@@ -2,3 +2,13 @@ theme: minima
 
 # Permalinks
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+minima:
+  social_links:
+    github: https://github.com/dylewiczk
+    linkedin: https://www.linkedin.com/in/kamil-dylewicz-5a2984170/
