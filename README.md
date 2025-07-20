@@ -26,7 +26,7 @@ Simulation of laminar flow over a NACA 0012 airfoil using OpenFOAM. Includes mes
 ## Skills & Tools
 
 - **CFD Software:** OpenFOAM, SU2
-- **Programming:** Python
+- **Programming:** Python, MATLAB, Fortran
 - **Visualization:** ParaView
 - **Other:** Mesh generation (Gmsh, snappyHexMesh), HPC simulation setups
 
@@ -36,9 +36,8 @@ Simulation of laminar flow over a NACA 0012 airfoil using OpenFOAM. Includes mes
 
 Feel free to reach out:
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/kamil-dylewicz-5a2984170/)  
+- **GitHub:** [github.com/yourusername](https://github.com/dylewiczk)
 
 ---
 
