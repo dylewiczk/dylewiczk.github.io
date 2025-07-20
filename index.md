@@ -4,6 +4,9 @@ title: "CFD Portfolio by Kamil Dylewicz, PhD"
 description: "CFD projects engineered for accuracy and performance."
 ---
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 # Welcome to my CFD portfolio
 
 I am a PhD level CFD engineer with expertise in external aerodynamics with experience in laminar-turbulent transition in supersonic, and hypersonic, flows.
