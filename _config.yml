@@ -1,3 +1,35 @@
 theme: jekyll-theme-minimal
 title: "CFD Portfolio by Kamil Dylewicz, PhD"
 description: "CFD projects engineered for accuracy and performance."
+
+# Author information
+author:
+  name: "Kamil Dylewicz"
+
+# Site URL (important for SEO and sharing)
+url: "https://dylewiczk.github.io"
+baseurl: "" # leave blank for GitHub Pages root
+
+# Social links
+social:
+  github: "https://github.com/dylewiczk"
+  linkedin: "https://linkedin.com/in/kamil-dylewicz-5a2984170/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (add more as needed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files/folders from build
+exclude:
+  - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+
+# Permalinks
+permalink: pretty
