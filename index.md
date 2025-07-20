@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Welcome to My CFD Portfolio"
+title: "CFD Portfolio by Kamil Dylewicz, PhD"
+description: "CFD projects engineered for accuracy and performance."
 ---
 
 # Welcome to my CFD portfolio
